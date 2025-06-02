@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TheLumosVibes</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Cinzel', serif;
+    background-image: url('https://sdmntprwestus2.oaiusercontent.com/files/00000000-930c-61f8-9ec8-433de1c5091e/raw?se=2025-06-02T02%3A07%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=f4a0a3d7-a2a2-58a9-abc2-fe2c35ace550&skoid=71e8fa5c-90a9-4c17-827b-14c3005164d6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-02T00%3A57%3A31Z&ske=2025-06-03T00%3A57%3A31Z&sks=b&skv=2024-08-04&sig=FaVVRvj6cmn/M%2B87Ga0PNaq9mKZM/ROSqb2AxQFtwZg%3D');
+      background-size: 100% auto;
+      background-repeat: no-repeat;
+      background-position: top center;
+      background-attachment: scroll;
+
+@media (max-width: 768px) {
+  body {
+    background-size: cover;
+    background-position: center top;
+    background-attachment: scroll;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    background-size: cover;
+    background-position: center top;
+    background-attachment: scroll;
+  }
+}
+
+      color: #2d1f1f;
+    }
+    .section {
+      padding: 80px 20px;
+      max-width: 800px;
+      margin: auto;
+      background-color: rgba(255, 255, 255, 0.8);
+      border-radius: 12px;
+      margin-top: 40px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    }
+    h1, h2 {
+      text-align: center;
+      color: #432818;
+    }
+    nav {
+      text-align: center;
+      margin-top: 20px;
+    }
+    nav a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #5e3023;
+      font-weight: bold;
+    }
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background: #bb9457;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      margin-top: 20px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    a {
+      color: #5e3023;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<section id="home" class="section">
+  <h1>TheLumosVibes</h1>
+  <p style="text-align: center">Магія у кожній дрібниці. / Magic in every detail.</p>
+  <nav>
+    <a href="#about">Про нас / About</a> |
+    <a href="#shop">Магазин / Shop</a> |
+    <a href="#contact">Контакти / Contact</a>
+  </nav>
+  <div style="text-align: center">
+    <a href="#shop" class="button">🛍 Купити</a>
+  </div>
+</section>
+
+<section id="about" class="section">
+  <h2>Про нас / About</h2>
+  <p><strong>UA:</strong> TheLumosVibes — це більше, ніж декор. Це енергія, що запалюється з найменшої іскри. Кожна свічка, підставка чи планер створені, щоб нагадувати тобі: світло — всередині тебе. Все виготовлено вручну, з натуральних матеріалів, з ніжністю та наміром.</p>
+  <p><strong>EN:</strong> TheLumosVibes is more than decor — it’s energy sparked from the smallest glow. Every candle, tray or planner is made to remind you: the light is within. All items are handmade with natural materials and intention.</p>
+</section>
+
+<section id="shop" class="section">
+  <h2>🛍 Магазин / Shop</h2>
+  <ul>
+    <li><strong>Aroma Lumos</strong> — <a href="https://www.etsy.com/ca/shop/TheLumosVibes?ref=profile_header" target="_blank">Купити</a></li>
+    <li><strong>Form Lumos</strong> — <a href="https://www.etsy.com/ca/shop/TheLumosVibes?ref=profile_header" target="_blank">Купити</a></li>
+    <li><strong>Plan Lumos</strong> — <a href="https://www.etsy.com/ca/shop/TheLumosVibes?ref=profile_header" target="_blank">Купити</a></li>
+    <li><strong>Stone Lumos</strong> — <a href="https://www.etsy.com/ca/shop/TheLumosVibes?ref=profile_header" target="_blank">Купити</a></li>
+  </ul>
+</section>
+
+<section id="contact" class="section">
+  <h2>📬 Контакти / Contact</h2>
+  <p>Email: <a href="mailto:hello@thelumosvibes.shop">hello@thelumosvibes.shop</a></p>
+  <p>Instagram: <a href="https://instagram.com/thelumos.vibes" target="_blank">@thelumos.vibes</a></p>
+  <p>Etsy: <a href="https://www.etsy.com/ca/shop/TheLumosVibes?ref=profile_header" target="_blank">TheLumosVibes</a></p>
+</section>
+
+</body>
+</html>
